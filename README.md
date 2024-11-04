@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dhruvgarg7003@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dhruv-garg-13478a](www.linkedin.com/in/dhruv-garg-13478a)
+- 📄 Know about my experiences [www.linkedin.com/in/dhruv-garg-13478a](www.linkedin.com/in/dhruv-garg-13478a223)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
