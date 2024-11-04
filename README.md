@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Dhruvcodings)
 
-- 💬 Ask me about **Java , Python , HTML ,CSS, JavaScript , MySQL**
+- 💬 Ask me about **Java , Python , HTML ,CSS, JavaScript , MySQL , Django **
 
 - 📫 How to reach me **dhruvgarg7003@gmail.com**
 
