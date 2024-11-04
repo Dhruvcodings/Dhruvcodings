@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhruvcodings](https://github.com/Dhruvcodings)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Dhruvcodings)
 
 - 💬 Ask me about **Java , Python , HTML ,CSS, JavaScript , MySQL**
 
 - 📫 How to reach me **dhruvgarg7003@gmail.com**
 
-- 📄 Know about my experiences [Git Hub](https://www.linkedin.com/in/dhruv-garg-13478a223/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/dhruv-garg-13478a223/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
