@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Garg</h1>
 <h3 align="center">"Showcasing My Journey in Software Development and Creative Projects"</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952unzev2mgbuvce975za69gv2x3oqp8qmu4mgdakdz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 
 - 🔭 I’m currently working on **Backend**
 
